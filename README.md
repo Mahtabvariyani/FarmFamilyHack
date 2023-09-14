@@ -1,5 +1,9 @@
 Project Structure
-Explain the project directory structure, key files, and their purposes:
+
+ 
+ 
+ 
+directory structure, key files, and their purposes:
 
 /src - Contains the source code for the Node.js and Express application.
 /public - Stores static assets like images, CSS, and client-side JavaScript.
@@ -11,6 +15,11 @@ Explain the project directory structure, key files, and their purposes:
 /tests - Unit tests, if applicable.
 /docs - Documentation files, if available.
 
+
+
+
+
+
 Features
 Product Ordering: Users can browse and order farm products in bulk.
 User Registration: Registration is required to place orders.
@@ -19,6 +28,10 @@ Contact Form: Allows users to submit inquiries and receive responses via email.
 Review System: Enables users to leave comments and reviews.
 Technologies Used
 List the main technologies, libraries, and frameworks used in your project:
+
+
+
+
 
 Node.js
 Express.js
@@ -29,6 +42,8 @@ Weather API (Specify the API used)
 Nodemailer (for sending emails)
 Other libraries and dependencies (list them)
 Contributing
+
+
 
 
 
